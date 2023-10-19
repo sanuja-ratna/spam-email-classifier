@@ -1,5 +1,5 @@
 # spam-email-classifier
-This repository contains the code and documentation for the process of classifying spam emails.
+This repository contains the Python code and documentation for the process of classifying spam emails.
 
 Creating a spam email classification tool involves building a machine learning model to classify emails as either spam or not spam (ham). Here, we'll use Python and a common dataset for email classification known as the "SpamAssassin Public Corpus." We'll use a popular machine learning library, scikit-learn, for building and training the model. 
 
